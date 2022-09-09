@@ -51,5 +51,5 @@ BTW, if you are new to electronics, there are some [tutorials](https://docs.madm
 ## Topics
 
 ### Learn
-- <doc:Table>
+- <doc:SwiftIO>
 - <doc:Article>
