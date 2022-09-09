@@ -8,6 +8,7 @@
         xxx
         
         
-        @TutorialReference(tutorial: "doc:tutorial")
+        @TutorialReference(tutorial: "doc:Tutorial")
     }
+    
 }
