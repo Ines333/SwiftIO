@@ -1,0 +1,25 @@
+@Tutorial(time: 10) {
+    @Intro(title: "intro title") {
+        xxx
+        
+    }
+    
+    @Section(title: "section title") {
+        @ContentAndMedia {
+            xxx
+            
+        }
+        
+        @Steps {
+            @Step {
+                xxx
+                
+            }
+            
+            @Step {
+                xxx
+                
+            }
+        }
+    }
+}
